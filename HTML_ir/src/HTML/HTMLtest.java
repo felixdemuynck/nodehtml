@@ -25,6 +25,7 @@ class HTMLtest {
 		head.removeChild(nonsense);
 		
 		//yeet
+		//werkt dat hier
 		assertEquals( 
 				"<html>" + "<head>" +
 				"<title>Ma huh?</title>" +
